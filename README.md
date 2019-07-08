@@ -1,9 +1,12 @@
 
 *** You’ll need to have Node 8.10.0 or later on your local development machine
 
+## The app is ready on
+https://oranjacob.github.io/OranJacob-react-test/  
+click on the blue "login button" to continue
+
 ## To run this project locally !! 
 in terminal navigate to the root of this project and run 'npm i' to install dependecies 
-
 in that way the app will run on http://localhost:3000 
 
 ## to test the app run 'npm test'
@@ -18,10 +21,6 @@ In the project directory, you can run:
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
 
 ### `npm run build`
 
