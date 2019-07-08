@@ -24,7 +24,7 @@ class App extends Component {
                         <Route
                             path="/watchList"
                             render={props => <WatchList {...props}/>} />
-                        <Route render={(props) => <h1>not found please go to home page</h1>} />
+                        <Route path="/OranJacob-react-test" render={(props) => <h1>not found please go to home page</h1>} />
                     </Switch>
                 </div>
             </Router>
