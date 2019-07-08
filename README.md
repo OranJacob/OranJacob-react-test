@@ -1,16 +1,10 @@
 
 *** You’ll need to have Node 8.10.0 or later on your local development machine
 
-## To run this project !! 
+## To run this project locally !! 
 in terminal navigate to the root of this project and run 'npm i' to install dependecies 
-then run 'node server.js'
 
-This will spin up the api on localhost:8080/
-I have included a build folder so there is no need to run npm start just go to http://localhost:8080/  
-and you should be able to access the app 
-
-otherwise if you wish to run it in dev mode you can run 'node server.js' and in a diffrent terminal run 'npm start'
-in that way the app will run on http://localhost:3000 and the api will proxy to http://localhost:8080/
+in that way the app will run on http://localhost:3000 
 
 ## to test the app run 'npm test'
 
