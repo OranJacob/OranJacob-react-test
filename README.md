@@ -3,7 +3,7 @@
 
 ## The app is ready on
 https://oranjacob.github.io/OranJacob-react-test/  
-click on the blue "login button" to continue
+click on the blue "login button" to continue then close the moviedb window
 
 ## To run this project locally !! 
 in terminal navigate to the root of this project and run 'npm i' to install dependecies 
