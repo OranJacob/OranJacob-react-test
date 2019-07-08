@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/OranJacob-react-test/precache-manifest.c5d48305ecc8315ad0965263c203ceb0.js"
+  "/OranJacob-react-test/precache-manifest.3c973491d84158b83474437c41bf8d76.js"
 );
 
 workbox.clientsClaim();
